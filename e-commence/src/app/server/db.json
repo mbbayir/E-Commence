@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "urunAdi": "Rolex ",
+      "urunResmi": "https://www.nasyonelchrono.com/cms/uploads/1/20210928130019/Buyukm116613lb-0005.jpg",
+      "id": 1
+    },
+    {
+      "urunAdi": "Rolex",
+      "urunResmi": "https://www.nasyonelchrono.com/cms/uploads/1/20211126131655/Buyuk1.jpg",
+      "id": 2
+    },
+    {
+      "urunAdi": "Rolex",
+      "urunResmi": "https://cdn.uniqylshop.com/b0cdac9f-16d4-499e-934c-dc8837000358/images/rolex-day-date-40-2-01687420322.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "urunAdi": "Rolex",
+      "urunResmi": "https://watchcollectors.co.uk/cdn/shop/products/Rolex_Explorer_II_White_01.jpg?v=1666627720"
+    },
+    {
+      "id": 5,
+      "urunAdi": "Rolex",
+      "urunResmi": "https://www.nasyonelchrono.com/cms/uploads/1/20210630120828/Buyuk2.jpg"
+    },
+    {
+      "id": 6,
+      "urunAdi": "Rolex",
+      "urunResmi": "https://content.rolex.com/v7/dam/collection/family-pages/classic-watches/datejust/share/classic-watches-datejust-a-date-with-destiny-share_09218_rsa_datejust-m126234_0051_carrousel_13_10_2022_position.jpg"
+    },
+    {
+      "id": 7,
+      "urunAdi": "Rolex",
+      "urunResmi": "https://www.time-trader.co.uk/images/rolex-daytona-p5-15_image.jpg"
+    },
+    {
+      "id": 8,
+      "urunAdi": "Rolex",
+      "urunResmi": "https://www.mikaeldan.com/31547-superlarge_default/montre-rolex-oyster-perpetual.jpg"
+    },
+    {
+      "id": 9,
+      "urunAdi": "Rolex",
+      "urunResmi": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/r/o/rolex-submariner-blue-dial-stainless-steel-and-18k-yellow-gold-bracelet-automatic-mens-watch-126613lbblso.jpg?width=546&height=546"
+    }
+  ],
+  "baskets": []
+}
